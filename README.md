@@ -9,7 +9,7 @@ In this project we have to IaC this architecture using terraform thats it .
 
 ## Contribution
 
-Contributions to this repository are welcome! If you have additional documentation, code examples, or tasks related to Linux commands that you would like to share, feel free to submit a pull request.
+Contributions to this repository are welcome! If you have additional documentation, code examples, or tasks that you would like to share, feel free to submit a pull request.
 
 ## Feedback
 
